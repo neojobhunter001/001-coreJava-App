@@ -1,13 +1,13 @@
 step 1:downloading git for windows(64/32bits)
 step 2:create git hub account
-step 3:create a repository for your project
-         or
+          or
 		 browse the repository for existing project get http:url for cloning into local system
 step 4:create local folder for the repo
 step 5:open git-bash and cd to local repo folder
 step 6:execute git clone command with url as shown
-			
-			git clone <https://github.com/neojobhunter001/001-corejava-App.git>
+
+	git clone https://git hub.com/neojobhunter001/001-corejava-App.git
+	
 step 7:cd project folder(to get project folder execute it)
 step 8:create local branch for the remote repo
 
